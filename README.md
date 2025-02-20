@@ -1,1 +1,1 @@
-[![Cigonov GitHub stats](https://github-readme-stats.vercel.app/api?username=cigonov)](https://github.com/cigonov/github-readme-stats)
+[![Cigonov GitHub stats](https://github-readme-stats.vercel.app/api?username=tihonovka)](https://github.com/tihonovka/github-readme-stats)
