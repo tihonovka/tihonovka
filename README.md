@@ -26,7 +26,7 @@ Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Isko
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tihonovka&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/tihonovka/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/RResabala2015">
+  <a href="https://github.com/tihonovka">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tihonovka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="cigany"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tihonovka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ciggler"/>
   </a>
