@@ -10,16 +10,16 @@ Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Isko
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://in.linkedin.com/in/piyushp7pravin">
+<a href="https://in.linkedin.com/in/">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:piyushpravin1998@gmail.com">
+  <a href="mailto:andrastihonov09@gmail.com">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/PiyushP7pravin">
+  <a href="https://twitter.com/ye">
     <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/piyushp7pravin/">
+  <a href="https://www.instagram.com/stra9ge_/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
 
