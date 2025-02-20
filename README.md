@@ -16,7 +16,7 @@ Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Isko
   <a href="mailto:andrastihonov09@gmail.com">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/ye">
+  <a href="https://twitter.com/kanyewest">
     <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/stra9ge_/">
