@@ -10,12 +10,18 @@ Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Isko
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-</p>
+<a href="https://in.linkedin.com/in/piyushp7pravin">
+   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:piyushpravin1998@gmail.com">
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+  <a href="https://twitter.com/PiyushP7pravin">
+    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/piyushp7pravin/">
+    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tihonovka&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
 
