@@ -76,7 +76,7 @@ Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Isko
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
     </tr>
 </table>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 
 ------
 [Tihonovka](https://github.com/tihonovka)
