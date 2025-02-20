@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tihonovka&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tihonovka&show_icons=true&theme=radical)
