@@ -17,7 +17,7 @@ Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Isko
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tihonovka&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
 
 ------
 <h3 align="left">Activity:</h3>
