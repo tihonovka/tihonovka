@@ -27,7 +27,7 @@ Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Isko
 <div align="center">
   <a href="https://github.com/tihonovka">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tihonovka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tihonovkashow_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tihonov&kashow_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
   </a>
 </div>
 <p align="center">
