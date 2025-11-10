@@ -2,7 +2,7 @@
 
 ### Hello 🌎, I'm Tihonov András
 
-Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Iskola, im learning as IT-Specialist managing network-servers, languages we learn is HTML, Python, SQL... As my own hobby im interested in reverse engineering and in C++, GSC. As CO-Owner of MRON-WARZONE im Support Team leader, under my subordination i have more than 30+ people, our server main goal is to develope a platform which helps us to play with another competitors who are interested in our project.
+Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Iskola, im learning as IT-Specialist managing network-servers, languages we learn is HTML, Python, SQL... As my own hobby im interested in reverse engineering and in C++, GSC. As CO-Owner of LUMEN im Support Team leader, under my subordination i have more than 30+ people, our server main goal is to develope a platform which helps us to play with another competitors who are interested in our project.
 
 
   - 🔭 I’m currently learning C++.
