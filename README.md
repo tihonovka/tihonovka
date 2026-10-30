@@ -1,83 +1,63 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+TIHIKE
 
-### Hello 🌎, I'm Tihonov András
+DEVELOPER / REVERSE ENGINEERING / CREATIVE SYSTEMS
 
-Im student of Budapesti Műszaki SZC Than Károly Technikum és Szakképző Iskola, im learning as IT-Specialist managing network-servers, languages we learn is HTML, Python, SQL... As my own hobby im interested in reverse engineering and in C++, GSC. As CO-Owner of LUMEN im Support Team leader, under my subordination i have more than 30+ people, our server main goal is to develope a platform which helps us to play with another competitors who are interested in our project.
+Budapest, Hungary
 
+---
 
-  - 🔭 I’m currently learning C++.
-  - 🌱 I know more than 5 languages, + 3 programming languages
+          ┌────────────────────────────────┐
+          │ │
+          │ N O S I G N A L │
+          │ │
+          │ T I H I K E │
+          │ │
+          │ EST. IN CHAOS │
+          │ │
+          └────────────────────────────────┘
 
+                   ┊ ┊
+                   ┊ 01 ┊
+                   ┊ ┊
+                   ┊ 02 ┊
+                   ┊ ┊
+                   ┊ 03 ┊
+                   ┊ ┊
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://in.linkedin.com/in/">
-   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
-  </a>
-  <a href="mailto:andrastihonov09@gmail.com">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
-  </a>
-  <a href="https://twitter.com/kanyewest">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/stra9ge_/">
-    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-  </a>
+01 / THE WORK
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tihonovka&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+   SOFTWARE ██████████████████
+   SYSTEMS ████████████████░░
+   WEB █████████████████░
+   EXPERIMENTS ██████████████████
 
-------
-<h3 align="left">Activity:</h3>
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tihonovka&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/tihonovka/github-readme-activity-graph)
+02 / CURRENT FREQUENCY
 
-<div align="center">
-  <a href="https://github.com/tihonovka">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tihonovka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tihonov&kashow_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-  </a>
+«Build something.
+
+Break something.
+
+Understand everything.»
+
+   [ SYSTEM ONLINE ]
+
+   > initializing curiosity...
+   > loading new ideas...
+   > rules are optional.
+   > status: still building_
+
+---
+
+03 / THE CONNECTION
+
+"GITHUB" (https://github.com/Ma3axucTKa)　 /　 "INSTAGRAM" (https://instagram.com/stra9ge_)
+
+---
+
+<div align="center">NOT EVERYTHING NEEDS TO BE EXPLAINED.
+
+"DESIGNED TO BE DIFFERENT."
+
 </div>
-
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs,fastapi,flask,express,nginx,vite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
-    </tr>
-</table>
-
-
-------
-[Tihonovka](https://github.com/tihonovka)
-20.02.2025
