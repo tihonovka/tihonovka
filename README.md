@@ -1,8 +1,6 @@
-# TIHIKE
+# tihonovka
 
-**Developer / Reverse Engineering / Creative Systems**
-
-📍 Budapest, Hungary
+**Developer / Reverse Engineering / 3D Art Designer**
 
 ---
 
@@ -10,14 +8,9 @@
 
 Building things. Breaking things. Understanding how they work.
 
-### Tech Stack
+### Using sometimes
 
 ![Skills](https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,linux,git,vscode,visualstudio&theme=dark)
 
-### GitHub Activity
-
-![Activity](https://github-readme-stats.vercel.app/api?username=tihonovka&show_icons=true&theme=github_dark&hide_border=true)
-
----
 
 *Always learning. Always building.*
